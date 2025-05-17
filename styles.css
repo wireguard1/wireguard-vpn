@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-        font-family: 'Vazir', sans-serif;
+        font-family: 'Vazirmatn', sans-serif;
             line-height: 1.6;
         
         direction: rtl;
         }
 
         h1, h2, h3 {
-            font-family: 'Vazir', sans-serif;
+            font-family: 'Vazirmatn', sans-serif;
         }
 
         p {
