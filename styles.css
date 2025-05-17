@@ -5,7 +5,7 @@
 }
 
 .styled-image {
-    width: 80%; /* اندازه تصویر */
+    width: 400px; /* اندازه تصویر */
     height: auto;
     border-radius: 18px;
     box-shadow: 0 4px 20px rgba(0, 0, 255, 0.5); /* سایه آبی */
