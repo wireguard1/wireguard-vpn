@@ -4,10 +4,7 @@
     box-sizing: border-box;
         font-family: 'Vazir', sans-serif;
             line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
+        
         direction: rtl;
         }
 
@@ -26,7 +23,7 @@
         }
 
         footer {
-            background-color: #333;
+           
             color: #fff;
             padding: 20px;
             text-align: center;
@@ -70,11 +67,14 @@ nav ul li a {
 .hero h1 {
     font-size: 36px;
     margin-bottom: 20px;
+     color: #fff;
+    
 }
 
 .hero p {
     font-size: 20px;
     margin-bottom: 30px;
+    color: #ff9800;
 }
 
 .hero .btn {
