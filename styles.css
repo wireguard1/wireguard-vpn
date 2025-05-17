@@ -1,3 +1,22 @@
+.image-container {
+    width: fit-content;
+    padding: 10px;
+}
+
+.styled-image {
+    width: auto; /* اندازه تصویر */
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 4px 20px rgba(0, 0, 255, 0.5); /* سایه آبی */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.styled-image:hover {
+    transform: scale(1.05); /* افکت بزرگ‌نمایی هنگام هاور */
+    box-shadow: 0 6px 30px rgba(0, 0, 255, 0.7); /* سایه پررنگ‌تر */
+}
+
+
 * {
     margin: 0;
     padding: 0;
