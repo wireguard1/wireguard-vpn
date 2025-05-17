@@ -2,8 +2,35 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
-}
+        font-family: 'Vazir', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Vazir', sans-serif;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: #555;
+        }
+
+        ul, ol {
+            font-size: 1.1em;
+            color: #555;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
 
 body {
     background-color: #f4f4f4;
